@@ -1,10 +1,9 @@
 var animal = 'dog';
 
-function myanimal() {
-  window.myanimal = dog;
+function myanimal(animal) {
     return myanimal;
 }
-function yourAnimal() {
+function yourAnimal(animal) {
   return youranimal;
 }
 
