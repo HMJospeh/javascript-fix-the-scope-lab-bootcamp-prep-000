@@ -1,8 +1,8 @@
 var animal = 'dog';
 
 function myAnimal() {
-  var my animal = dog;
-    return my animal;
+  var myanimal = dog;
+    return myanimal;
 }
 
 function yourAnimal() {
