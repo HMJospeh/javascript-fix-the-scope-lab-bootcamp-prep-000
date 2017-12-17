@@ -1,7 +1,8 @@
 var animal = 'dog'
 
-function myAnimal() {
-  return myanimal;
+function Scope() {
+  Scope = 'my animal';
+  return Scope;
 }
 
 function yourAnimal() {
