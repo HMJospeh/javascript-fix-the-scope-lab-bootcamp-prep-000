@@ -1,6 +1,6 @@
-var animal = 'dog';
+var myanimal = 'dog';
 
-function myanimal(dog) {
+function myanimal() {
     return myanimal;
 }
 function yourAnimal() {
